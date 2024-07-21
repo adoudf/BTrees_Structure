@@ -1,4 +1,4 @@
-#Balanced B-Tree Implementation
+## Balanced B-Tree Implementation
 
 This C++ program implements a balanced B-tree data structure with basic operations like insertion and range search.
  
